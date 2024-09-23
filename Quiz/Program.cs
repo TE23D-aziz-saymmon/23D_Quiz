@@ -57,7 +57,7 @@ else
     Console.WriteLine("Incorrect!");
 }
 
-Console.WriteLine("You got {score} points.");
+Console.WriteLine($"You got {score} points.");
 if (score == 0)
 {
     Console.WriteLine("My brother in Christ, you really do need a deeper depth in history!");
